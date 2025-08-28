@@ -1,2 +1,6 @@
 # Universidade do Codigo
-Mini projeto solicitado por meu docente no SENAI onde tinhamos que fazer um codigo em HTML que reproduzisse tudo que foi solicitado no prototipo via figma (https://www.figma.com/design/X3Xo7CwOonsaEnGBC1YhBR/Universidade-do-c%C3%B3digo?node-id=0-1&t=brYPvDljJkoxEZII-1)
+Mini projeto solicitado por meu docente no SENAI JUNDIAI onde tinhamos que fazer um codigo em HTML que reproduzisse tudo que foi solicitado no prototipo via figma.<br>
+Link do prototipo de referencia: https://www.figma.com/design/X3Xo7CwOonsaEnGBC1YhBR/Universidade-do-c%C3%B3digo?node-id=0-1&t=brYPvDljJkoxEZII-1 <br><br>
+Mini-project requested by my professor at SENAI JUNDIAI where we had to create HTML code that reproduced everything requested in the Figma prototype.<br>
+Reference prototype link: https://www.figma.com/design/X3Xo7CwOonsaEnGBC1YhBR/Universidade-do-c%C3%B3digo?node-id=0-1&t=brYPvDljJkoxEZII-1
+<br><br>
